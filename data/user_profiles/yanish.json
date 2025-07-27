@@ -1,0 +1,68 @@
+{
+  "user_id": "Yanish",
+  "history": [
+    [
+      "You",
+      "What are the Universities I can apply to?",
+      "Earlier"
+    ],
+    [
+      "Bot",
+      "Ask me about universities, requirements, or student life in the UK!",
+      "Earlier"
+    ],
+    [
+      "You",
+      "What are the Universities I can apply to?",
+      "Earlier"
+    ],
+    [
+      "Bot",
+      "Ask me about universities, requirements, or student life in the UK!",
+      "Earlier"
+    ],
+    [
+      "You",
+      "Hello",
+      "2025-07-22 14:36"
+    ],
+    [
+      "Bot",
+      "Sorry, there was an error contacting the AI: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable",
+      "2025-07-22 14:36"
+    ],
+    [
+      "You",
+      "hello",
+      "2025-07-22 15:16"
+    ],
+    [
+      "Bot",
+      "Sorry, there was an error contacting the AI: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable",
+      "2025-07-22 15:16"
+    ],
+    [
+      "You",
+      "3.5 GPA",
+      "2025-07-22 15:17"
+    ],
+    [
+      "Bot",
+      "Sorry, there was an error contacting the AI: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable",
+      "2025-07-22 15:17"
+    ],
+    [
+      "You",
+      "Hwllo",
+      "2025-07-22 15:17"
+    ],
+    [
+      "Bot",
+      "Sorry, there was an error contacting the AI: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable",
+      "2025-07-22 15:17"
+    ]
+  ],
+  "preferences": {},
+  "feedback": [],
+  "last_unis": []
+}
